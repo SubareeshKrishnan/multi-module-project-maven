@@ -21,12 +21,12 @@
         <dependency>
             <groupId>org.orion</groupId>
             <artifactId>jpa-entities</artifactId>
-            <version>${parent.version}</version>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
             <groupId>org.orion</groupId>
             <artifactId>web-api</artifactId>
-            <version>${parent.version}</version>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
             <groupId>org.mapstruct</groupId>
