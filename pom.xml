@@ -19,6 +19,7 @@
         <module>jpa-entities</module>
         <module>web-api</module>
         <module>web-app</module>
+        <module>convertors</module>
     </modules>
 
     <packaging>pom</packaging>

@@ -1,4 +1,4 @@
-package controller;
+package com.orion.controller;
 
 import com.orion.domain.UserCommand;
 import com.orion.entities.User;
