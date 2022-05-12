@@ -14,7 +14,6 @@
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
         <maven.compiler.target>18</maven.compiler.target>
-        <jaxb.version>3.0.2</jaxb.version>
     </properties>
 
     <repositories>
@@ -29,7 +28,6 @@
         <dependency>
             <groupId>jakarta.xml.bind</groupId>
             <artifactId>jakarta.xml.bind-api</artifactId>
-            <version>4.0.0</version>
         </dependency>
     </dependencies>
 
